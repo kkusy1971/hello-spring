@@ -1,2 +1,2 @@
-### Pay with PayPal
+### Get hello message
 GET http://localhost:8080/hello
