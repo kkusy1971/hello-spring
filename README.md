@@ -20,3 +20,7 @@ mvnw.cmd spring-boot:run
 ```
 
 Open: http://localhost:8080/greeting
+
+## Requirements
+
+- Java 17+
