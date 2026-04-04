@@ -7,7 +7,16 @@ A minimal Spring Boot application exposing a simple `/greeting` endpoint.
 ```bash
 git clone https://github.com/kkusylabs/hello-spring.git
 cd hello-spring
-mvn spring-boot:run
 ```
 
-Then open: http://localhost:8080/greeting
+**macOS / Linux**
+```bash
+./mvnw spring-boot:run
+```
+
+**Windows**
+```bat
+mvnw.cmd spring-boot:run
+```
+
+Open: http://localhost:8080/greeting
