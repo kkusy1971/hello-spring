@@ -1,6 +1,6 @@
-package com.example.hellospring.controller;
+package io.github.kkusylabs.hellospring.controller;
 
-import com.example.hellospring.service.GreetingService;
+import io.github.kkusylabs.hellospring.service.GreetingService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

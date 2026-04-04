@@ -1,4 +1,4 @@
-package com.example.hellospring.service;
+package io.github.kkusylabs.hellospring.service;
 
 import org.springframework.stereotype.Service;
 
