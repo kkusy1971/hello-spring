@@ -19,7 +19,7 @@ cd hello-spring
 mvnw.cmd spring-boot:run
 ```
 
-Open: http://localhost:8080/greeting
+Open: http://localhost:8080/hello
 
 ## Requirements
 
